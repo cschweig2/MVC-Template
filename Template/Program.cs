@@ -2,18 +2,19 @@ using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
 namespace Template
-  public class Program
-  {
-    public static void Main(string[] args)
+{
+    public class Program
     {
-      var host = new WebHostBuilder()
-        .UseKestrel()
-        .UseContentRoot(Directory.GetCurrentDirectory())
-        .UseIISIntegration()
-        .UseStartup<Startup>()
-        .Build();
+        public static void Main(string[] args)
+        {
+        var host = new WebHostBuilder()
+            .UseKestrel()
+            .UseContentRoot(Directory.GetCurrentDirectory())
+            .UseIISIntegration()
+            .UseStartup<Startup>()
+            .Build();
 
-      host.Run();
+        host.Run();
+        }
     }
-  }
 }
