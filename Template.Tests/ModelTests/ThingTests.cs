@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using ToDoList.Models;
+using Template.Models;
 using System;
 
-namespace ToDoList.Tests
+namespace Template.Tests
 {
     [TestClass]
     public class ItemTests : IDisposable
