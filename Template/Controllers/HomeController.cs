@@ -1,8 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using MusicOrg.Models;
 using System.Collections.Generic;
-using Template.Models;
+using System.Linq;
 
-namespace Template.Controllers
+namespace MusicOrg.Controllers
 {
     public class HomeController: Controller
     {
