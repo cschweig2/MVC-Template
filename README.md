@@ -1,4 +1,4 @@
-# Bakery
+# Project Name
 
 #### Independent Code Review, Last Updated 01.07.2021
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_Bakery is a program that allows the user to view the cost of pastries and bread sold at the bakery, place an order, and then view their total cost for the order. There are deals available for the customer, such as "buy 2 for $8" for bread, and "buy 2 for $3" for pastries._
+_Description of program._
 
 ## Specifications
 
