@@ -41,6 +41,9 @@ _Description of program._
 2. _After clicking the downloaded .pkg file, follow the prompts in the installer and use suggested default settings._
 3. _You can confirm a successful installation by opening a command line terminal and running the command $ dotnet --version, which should return a version number._
 
+### Installing MySQL Workbench
+
+1. _[Download and install](https://dev.mysql.com/downloads/workbench/) the version of MySQL Workbench suitable for your machine._
 
 ### View locally/Project Setup
 
@@ -51,6 +54,12 @@ _Description of program._
 4. _Open a terminal window, such as Command Prompt or Git Bash._<br>
   4a. _Type in this command: "git clone", followed by the URL you just copied. The full command should look like this: "git clone https://github.com/cschweig2/Bakery.Solution"._
 5. _View the code on your favorite text editor, such as Visual Studio Code._
+
+#### Download
+1. _Click [here](https://github.com/cschweig2/Factory.Solution) to view project repository._
+2. _Click "Clone or download" to find the "Download ZIP" option._
+3. _Click "Download ZIP" and extract files._
+4. _Open the project in a text editor by clicking on any file in the project folder._
 
 #### Import Database in MySQL Workbench
 1. _Open MySQL Workbench and enter your password to open a server._
