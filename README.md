@@ -1,10 +1,12 @@
 <div align="center>
+
 # Project Name
 
 #### Independent Code Review
 #### Created 01.15.2021 | Last Updated 01.15.2021
 
 #### **By Chelsea Becker**
+
 </div>
 
 ## Description
