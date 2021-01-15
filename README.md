@@ -1,11 +1,13 @@
+<div align="center>
 # Project Name
 
-#### Independent Code Review, Last Updated 01.07.2021
+#### Independent Code Review
+#### Created 01.15.2021 | Last Updated 01.15.2021
 
 #### **By Chelsea Becker**
+</div>
 
 ## Description
-
 _Description of program._
 
 ## Specifications
@@ -63,11 +65,12 @@ _Description of program._
 
 #### Import Database in MySQL Workbench
 1. _Open MySQL Workbench and enter your password to open a server._
-2. _From the top navigation bar, follow:_ ```Server > Data Import```.
-4. _Select the option_ `Import from Self-Contained File`.
+2. _From the top navigation bar, follow:_ `Server > Data Import`_._
+4. _Select the option_ `Import from Self-Contained File`_._
+5. _Click the `...` button to navigate to the project file folder `Library` and select `library.sql`._
 5. _Set_ `Default Target Schema` _or create new schema._
-6. _Select the schema objects you would like to import_
-7. _To finalize, click_ `Start Import`.
+6. _Select the schema objects you would like to import._
+7. _To finalize, click_ `Start Import`_._
 
 #### Import Database with SQL Schema
 
@@ -77,7 +80,7 @@ _Open MySQL Workbench and paste the following Schema Create Statement to replica
 
 #### Final Steps
 1. _Navigate to the Bakery and Bakery.Tests folders and enter "dotnet restore" in the command line to install packages._
-2._After packages are installed in each of these folders, you may use "dotnet run" to both run and build the program._
+2._After packages are installed in each of these folders, navigate to the -Main Project- folder and enter "dotnet run" in the command line to both run and build the program._
 
 ## Known Bugs
 
